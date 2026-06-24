@@ -16,12 +16,14 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.accueildujourapp.adj2",
       "infoPlist": {
-        "UIBackgroundModes": ["remote-notification"]
+        "UIBackgroundModes": [
+          "remote-notification"
+        ]
       }
     },
     "android": {
       "package": "com.accueildujourapp.adj2",
-"adaptiveIcon": {
+      "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
@@ -44,6 +46,11 @@
           "sounds": []
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2d835674-dcc9-4623-9399-7aef2bc74f17"
+      }
+    }
   }
 }
