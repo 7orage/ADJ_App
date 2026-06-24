@@ -45,16 +45,15 @@ Construite avec **React Native / Expo**. Actuellement testable via Expo Go ou na
 
 ### Prérequis
 - [Node.js](https://nodejs.org) installé
-- L'app **Expo Go** sur ton téléphone ([iOS](https://apps.apple.com/app/expo-go/id982107779) / [Android](https://play.google.com/store/apps/details?id=host.exp.exponent))
 
-### Lancement
+### Lancement (version web)
 ```bash
 npm install
-npx expo start
+npx expo start --web
 ```
-Scanner le QR code affiché dans le terminal avec Expo Go.
+L'application s'ouvre dans le navigateur. Toutes les fonctionnalités sont disponibles sauf les notifications push (nécessitent un build natif).
 
-> Les notifications push ne fonctionnent pas dans Expo Go (elles nécessitent un build natif). Toutes les autres fonctionnalités sont disponibles.
+> Une version mobile native (iOS / Android) est prévue via EAS Build.
 
 ### Comptes de démonstration
 
