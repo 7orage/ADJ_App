@@ -96,4 +96,4 @@ Scanner le QR code affiché dans le terminal avec Expo Go.
 
 ## Développement
 
-Projet développé avec l'assistance de [Claude](https://claude.ai) (Anthropic) comme outil de développement accéléré. Conception, architecture et décisions produit par [Laura Heteauu](https://github.com/7orage).
+Projet développé avec l'assistance de [Claude](https://claude.ai) (Anthropic) comme outil de développement accéléré. Conception, architecture et décisions produit par [Laura Heteau](https://github.com/7orage).
